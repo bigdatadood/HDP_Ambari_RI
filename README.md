@@ -1,2 +1,1 @@
-# HDP_Ambari_RI
-Hortonworks Ambari Reference Implementation
+# HDP_ambari_ri
